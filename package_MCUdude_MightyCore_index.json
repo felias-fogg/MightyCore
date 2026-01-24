@@ -1280,6 +1280,61 @@
               "version": "1.0.0"
             }
           ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "3.0.4-pre3",
+          "category": "Contributed",
+          "url": "https://felias-fogg.github.io/MightyCore/MightyCore-3.0.4-pre3.tar.bz2",
+          "archiveFileName": "MightyCore-3.0.4-pre3.tar.bz2",
+          "checksum": "SHA-256:139d09a76c1d7bebfc796a025404716002e8171155eb4bfb773fc0130f35d7f3",
+          "size": "790224",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "8.0-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrocd-tools",
+              "version": "1.0.0"
+            }
+          ]
         }
       ],
       "tools": [
