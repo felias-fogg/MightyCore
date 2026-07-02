@@ -1,0 +1,2160 @@
+{
+  "packages": [
+    {
+      "name": "MightyCore",
+      "maintainer": "MCUdude",
+      "websiteURL": "https://github.com/MCUdude/MightyCore",
+      "email": "",
+      "help": {
+        "online": "http://forum.arduino.cc/index.php?topic=379427"
+      },
+      "platforms": [
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-1.0.0.tar.gz",
+          "archiveFileName": "MightyCore-1.0.0.tar.gz",
+          "checksum": "SHA-256:283b442209cef5406bc7c21074664e1b2783d9b5997f50b3195a5c6cd0ee4de5",
+          "size": "306232",
+          "boards": [
+            {
+              "name": "ATmega1284p"
+            },
+            {
+              "name": "ATmega644p"
+            },
+            {
+              "name": "ATmega324p"
+            },
+            {
+              "name": "ATmega164p"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-1.0.1.tar.gz",
+          "archiveFileName": "MightyCore-1.0.1.tar.gz",
+          "checksum": "SHA-256:999905c879d35ad8036fad976e7cccc84b7b68e4d7f3ca11e1ead5b23b1c8409",
+          "size": "310170",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "1.0.2",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-1.0.2.tar.gz",
+          "archiveFileName": "MightyCore-1.0.2.tar.gz",
+          "checksum": "SHA-256:fbbb6d5f150edc71fc7d55550f066defeb3505bc19992c69d61b46b0e8462387",
+          "size": "267338",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "1.0.3-r1",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-1.0.3r1.tar.gz",
+          "archiveFileName": "MightyCore-1.0.3r1.tar.gz",
+          "checksum": "SHA-256:b5e759273e63b1b415c9c3412a568f10657b12db25cd1b26d02cc43c676c03db",
+          "size": "271214",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "1.0.4",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-1.0.4.tar.gz",
+          "archiveFileName": "MightyCore-1.0.4.tar.gz",
+          "checksum": "SHA-256:64e64091cb823823cbe90ccd251b1150e22e8546489dc460e41c2d73a44bc347",
+          "size": "271238",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "1.0.5",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-1.0.5.tar.gz",
+          "archiveFileName": "MightyCore-1.0.5.tar.gz",
+          "checksum": "SHA-256:c3c82e0be56bd5cd745b2b5300937f4135f2be59b49d5203e6fce33bd81a184a",
+          "size": "339295",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "1.0.6",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-1.0.6.tar.gz",
+          "archiveFileName": "MightyCore-1.0.6.tar.gz",
+          "checksum": "SHA-256:d85d26335782f5511a63a0b4ea62ae34517ed513599213674a531e5f1a7ec0ca",
+          "size": "310812",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "1.0.7",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-1.0.7.tar.gz",
+          "archiveFileName": "MightyCore-1.0.7.tar.gz",
+          "checksum": "SHA-256:9f05e8c930246bc75e161c4002173b7e0b4ad8ad661549674f8fe550dadc16ed",
+          "size": "322325",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "1.0.8",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-1.0.8.tar.bz2",
+          "archiveFileName": "MightyCore-1.0.8.tar.bz2",
+          "checksum": "SHA-256:fefd0e0220c13b948c53c0957d8343b10502b774d8d1c95a30da03de0b6ee112",
+          "size": "299204",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "2.0.0",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-2.0.0.tar.bz2",
+          "archiveFileName": "MightyCore-2.0.0.tar.bz2",
+          "checksum": "SHA-256:b184c104ab024c96398900e65f5094ac6b201cc227ca8f266cfccc6f7ab0cef3",
+          "size": "323530",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "2.0.1",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-2.0.1.tar.bz2",
+          "archiveFileName": "MightyCore-2.0.1.tar.bz2",
+          "checksum": "SHA-256:83cb044c4819c6da16867dc5f223f4abcb0aa1287a6b0d5acb43d5e153845aa6",
+          "size": "387729",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "2.0.2",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-2.0.2.tar.bz2",
+          "archiveFileName": "MightyCore-2.0.2.tar.bz2",
+          "checksum": "SHA-256:4da3e6e32407c8237bf4d447e787781e4bf338844fa575ec89c81fa13dac6adc",
+          "size": "450553",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "2.0.3",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-2.0.3.tar.bz2",
+          "archiveFileName": "MightyCore-2.0.3.tar.bz2",
+          "checksum": "SHA-256:b24d05e42d9e763eb49e6658c2a2c4702544ad71a9f8152d0c274a78950d4a90",
+          "size": "467772",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "2.0.4",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-2.0.4.tar.bz2",
+          "archiveFileName": "MightyCore-2.0.4.tar.bz2",
+          "checksum": "SHA-256:5d275038ef8706e2118037e6ab94c8e8f3a6b6aeb1a8a0d4e4b60eed5747e541",
+          "size": "679398",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "2.0.5",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-2.0.5.tar.bz2",
+          "archiveFileName": "MightyCore-2.0.5.tar.bz2",
+          "checksum": "SHA-256:db8ad2d3a4f9427688702e9547b324dc43411f35ffe015e6979b232af0b1cff3",
+          "size": "630691",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "2.0.6",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-2.0.6.tar.bz2",
+          "archiveFileName": "MightyCore-2.0.6.tar.bz2",
+          "checksum": "SHA-256:28c3ef1f273a62f7b0c71fc74a50a780638996b38288af96349c31cd9382511a",
+          "size": "658817",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "2.0.7",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-2.0.7.tar.bz2",
+          "archiveFileName": "MightyCore-2.0.7.tar.bz2",
+          "checksum": "SHA-256:73478ad8fec1231e26d967bbd4718fbb5856eea4ae327eeadad9ed8b2755b531",
+          "size": "626292",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "2.0.8",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-2.0.8.tar.bz2",
+          "archiveFileName": "MightyCore-2.0.8.tar.bz2",
+          "checksum": "SHA-256:3227ed90e1c5163883f1e93d659a57828201cd07a3447fe564338da457bcb1ee",
+          "size": "625615",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "2.1.0",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-2.1.0.tar.bz2",
+          "archiveFileName": "MightyCore-2.1.0.tar.bz2",
+          "checksum": "SHA-256:63c8805b941875c9aa9bfd57027633834b068667b5ac9f4fae94c56e89117c49",
+          "size": "629679",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino18"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "2.1.1",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-2.1.1.tar.bz2",
+          "archiveFileName": "MightyCore-2.1.1.tar.bz2",
+          "checksum": "SHA-256:b06a102ce7845af87ae22bf4077a05cb250e33b9b9633fc84fcd438e9cd98038",
+          "size": "629691",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino18"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "2.1.2",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-2.1.2.tar.bz2",
+          "archiveFileName": "MightyCore-2.1.2.tar.bz2",
+          "checksum": "SHA-256:13372f446ae09ce5f20d7620d662a0dc66cc896129704215e5f6dc9812edbae6",
+          "size": "724319",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino18"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "2.1.3",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-2.1.3.tar.bz2",
+          "archiveFileName": "MightyCore-2.1.3.tar.bz2",
+          "checksum": "SHA-256:36963389a8ffa1a99c06ab26221538bb2b5f5e3b81a043e181a6e4706a49d170",
+          "size": "724781",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino18"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "2.2.0",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-2.2.0.tar.bz2",
+          "archiveFileName": "MightyCore-2.2.0.tar.bz2",
+          "checksum": "SHA-256:c9df1d6853cbb7ac43fd9389c71a60a8b0f6c453dca7f750f01d3eadc9de4055",
+          "size": "741095",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "7.1-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "2.2.1",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-2.2.1.tar.bz2",
+          "archiveFileName": "MightyCore-2.2.1.tar.bz2",
+          "checksum": "SHA-256:0e473338a55092699ba867de0018a7ce0854e19051ec8fb2c5cf295c3a2e7016",
+          "size": "741460",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "7.1-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "2.2.2",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-2.2.2.tar.bz2",
+          "archiveFileName": "MightyCore-2.2.2.tar.bz2",
+          "checksum": "SHA-256:784a5f4d5b5514013a732821212440313c58b9a2a03a67d921909e240e9b8d02",
+          "size": "741304",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "7.1-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "3.0.0",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-3.0.0.tar.bz2",
+          "archiveFileName": "MightyCore-3.0.0.tar.bz2",
+          "checksum": "SHA-256:50dd68d2abed8f7ad8bb7940f6a10e13b30b4f33c06eccb9ac20ec3776129341",
+          "size": "842356",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "3.0.1",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-3.0.1.tar.bz2",
+          "archiveFileName": "MightyCore-3.0.1.tar.bz2",
+          "checksum": "SHA-256:8c1f0b7ed811053032a6584349cc229e4f4e2f7db79f6093f66cc39c1af6efb8",
+          "size": "842327",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "3.0.2",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-3.0.2.tar.bz2",
+          "archiveFileName": "MightyCore-3.0.2.tar.bz2",
+          "checksum": "SHA-256:4d18060ada201466724e1c5a51dce074e540cbb9b99ef18501bd1c8f17282496",
+          "size": "842664",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "3.0.3",
+          "category": "Contributed",
+          "url": "https://MCUdude.github.io/MightyCore/MightyCore-3.0.3.tar.bz2",
+          "archiveFileName": "MightyCore-3.0.3.tar.bz2",
+          "checksum": "SHA-256:5974366b490801cf1410780d630a9da80c76a45528e4522c927540e41671b5b8",
+          "size": "788980",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "8.0-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "3.0.4-pre1",
+          "category": "Contributed",
+          "url": "https://felias-fogg.github.io/MightyCore/MightyCore-3.0.4-pre1.tar.bz2",
+          "archiveFileName": "MightyCore-3.0.4-pre1.tar.bz2",
+          "checksum": "SHA-256:ba6cf40fc1f0649adc756c875e8bc0cbf5619d1ff10ad42461df07034d046885",
+          "size": "790063",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "8.0-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrocd-tools",
+              "version": "1.0.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "3.0.4-pre2",
+          "category": "Contributed",
+          "url": "https://felias-fogg.github.io/MightyCore/MightyCore-3.0.4-pre2.tar.bz2",
+          "archiveFileName": "MightyCore-3.0.4-pre2.tar.bz2",
+          "checksum": "SHA-256:e5ce1ccaa1207f36ed10983ea3b3d09262afbd1e2b2bb62a2ebbe93bc967a0dc",
+          "size": "790619",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "8.0-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrocd-tools",
+              "version": "1.0.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "3.0.4-pre3",
+          "category": "Contributed",
+          "url": "https://felias-fogg.github.io/MightyCore/MightyCore-3.0.4-pre3.tar.bz2",
+          "archiveFileName": "MightyCore-3.0.4-pre3.tar.bz2",
+          "checksum": "SHA-256:139d09a76c1d7bebfc796a025404716002e8171155eb4bfb773fc0130f35d7f3",
+          "size": "790224",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "8.0-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrocd-tools",
+              "version": "1.0.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "3.1.0-pre1",
+          "category": "Contributed",
+          "url": "https://felias-fogg.github.io/MightyCore/MightyCore-3.1.0-pre1.tar.bz2",
+          "archiveFileName": "MightyCore-3.1.0-pre1.tar.bz2",
+          "checksum": "SHA-256:56f69464ec3337f21ffeca0589c6c462872db4df1def2d9e4ae08635620ca5fe",
+          "size": "790335",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "8.0-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrocd-tools",
+              "version": "1.1.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "3.1.0-pre2",
+          "category": "Contributed",
+          "url": "https://felias-fogg.github.io/MightyCore/MightyCore-3.1.0-pre2.tar.bz2",
+          "archiveFileName": "MightyCore-3.1.0-pre2.tar.bz2",
+          "checksum": "SHA-256:406e6c6dbffcf8ccab0274a722964103a6b132e3fdd964b28fc8a857e5a75a7f",
+          "size": "790263",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "8.0-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrocd-tools",
+              "version": "1.1.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "3.1.0-pre3",
+          "category": "Contributed",
+          "url": "https://felias-fogg.github.io/MightyCore/MightyCore-3.1.0-pre3.tar.bz2",
+          "archiveFileName": "MightyCore-3.1.0-pre3.tar.bz2",
+          "checksum": "SHA-256:6cf30a218dcf53d3b87cdcfcccb7008601ebd5b1fb384d32cc6531388a0f1863",
+          "size": "790019",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "8.0-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrocd-tools",
+              "version": "1.1.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "3.1.0-pre4",
+          "category": "Contributed",
+          "url": "https://felias-fogg.github.io/MightyCore/MightyCore-3.1.0-pre4.tar.bz2",
+          "archiveFileName": "MightyCore-3.1.0-pre4.tar.bz2",
+          "checksum": "SHA-256:256ec32b925b76e31484c34cb28577f71adf0899b1f49f71dab8a7946667942c",
+          "size": "790265",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "8.0-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrocd-tools",
+              "version": "1.1.0"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "3.1.0-pre5",
+          "category": "Contributed",
+          "url": "https://felias-fogg.github.io/MightyCore/MightyCore-3.1.0-pre5.tar.bz2",
+          "archiveFileName": "MightyCore-3.1.0-pre5.tar.bz2",
+          "checksum": "SHA-256:52446133c73f1fd3257cfab2119d016d3c0a5269b79c2e6d261d6897c032dbc1",
+          "size": "790297",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "8.0-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrocd-tools",
+              "version": "1.1.1"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore",
+          "architecture": "avr",
+          "version": "3.1.0-pre6",
+          "category": "Contributed",
+          "url": "https://felias-fogg.github.io/MightyCore/MightyCore-3.1.0-pre6.tar.bz2",
+          "archiveFileName": "MightyCore-3.1.0-pre6.tar.bz2",
+          "checksum": "SHA-256:f418e2f770a39472a53be0a37f53fb0f1315da3937b5d542d49f426743961c62",
+          "size": "790479",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "8.0-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrocd-tools",
+              "version": "1.1.1"
+            }
+          ]
+        },
+        {
+          "name": "MightyCore (GCC15)",
+          "architecture": "avr",
+          "version": "3.2.0-gcc15a",
+          "category": "Contributed",
+          "url": "https://felias-fogg.github.io/MightyCore/MightyCore-3.2.0-gcc15a.tar.bz2",
+          "archiveFileName": "MightyCore-3.2.0-gcc15a.tar.bz2",
+          "checksum": "SHA-256:33fd6a39c070d8df19207da6f1f8232d2b063ed40f6f05c3978207f6c85f650a",
+          "size": "18413232",
+          "boards": [
+            {
+              "name": "ATmega1284/P"
+            },
+            {
+              "name": "ATmega644/P/PA/A"
+            },
+            {
+              "name": "ATmega324P/PA/A/PB"
+            },
+            {
+              "name": "ATmega164P/PA/A"
+            },
+            {
+              "name": "ATmega32"
+            },
+            {
+              "name": "ATmega16"
+            },
+            {
+              "name": "ATmega8535"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "MightyCore",
+              "name": "avr-gcc",
+              "version": "15.1.0-microchip4.0.0-03"
+            },
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrdude",
+              "version": "8.0-arduino.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            },
+            {
+              "packager": "MightyCore",
+              "name": "avrocd-tools",
+              "version": "1.5.2"
+            }
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "name": "avrdude",
+          "version": "7.1-arduino.1",
+          "systems": [
+            {
+              "size": "1161418",
+              "checksum": "SHA-256:6c842593530e8ee463760fca6c6244eeff5718fac6ed5798386a2d9704735fb5",
+              "host": "arm-linux-gnueabihf",
+              "archiveFileName": "avrdude_7.1-arduino.1_Linux_ARMv6.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.1-arduino.1_Linux_ARMv6.tar.gz"
+            },
+            {
+              "size": "1261196",
+              "checksum": "SHA-256:37743def85b0fa70b566797d889e6d649f644ad7fa67a3e151b6e61aba9a0d0a",
+              "host": "aarch64-linux-gnu",
+              "archiveFileName": "avrdude_7.1-arduino.1_Linux_ARM64.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.1-arduino.1_Linux_ARM64.tar.gz"
+            },
+            {
+              "size": "834101",
+              "checksum": "SHA-256:436a7a5f467774cdd39683d2226314ba90485b0b08c629602004f4bbfdddf575",
+              "host": "x86_64-apple-darwin12",
+              "archiveFileName": "avrdude_7.1-arduino.1_macOS_64bit.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.1-arduino.1_macOS_64bit.tar.gz"
+            },
+            {
+              "size": "1169286",
+              "checksum": "SHA-256:11f6c709d9f950e35993ca27ed870a86711d7093255a9e4b4463160f1778fd19",
+              "host": "x86_64-linux-gnu",
+              "archiveFileName": "avrdude_7.1-arduino.1_Linux_64bit.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.1-arduino.1_Linux_64bit.tar.gz"
+            },
+            {
+              "size": "1170712",
+              "checksum": "SHA-256:f5eff5141c9385b56ca3be780453149c912abf7b5bf87de8398f661a1369d305",
+              "host": "i686-linux-gnu",
+              "archiveFileName": "avrdude_7.1-arduino.1_Linux_32bit.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.1-arduino.1_Linux_32bit.tar.gz"
+            },
+            {
+              "size": "1591591",
+              "checksum": "SHA-256:35d3b917573a91b7a7e5805919a1fa3bc033541e2941b710bfc627071c738731",
+              "host": "i686-mingw32",
+              "archiveFileName": "avrdude_7.1-arduino.1_Windows_32bit.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.1-arduino.1_Windows_32bit.tar.gz"
+            }
+          ]
+        },
+        {
+          "name": "avrdude",
+          "version": "7.2-arduino.1",
+          "systems": [
+            {
+              "size": "1243922",
+              "checksum": "SHA-256:b5b88e4f52c0edb861f5ae54acbd752f9ecd562a4db4d821ab8c276ee5696dab",
+              "host": "arm-linux-gnueabihf",
+              "archiveFileName": "avrdude_7.2-arduino.1_Linux_ARMv6.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.2-arduino.1_Linux_ARMv6.tar.gz"
+            },
+            {
+              "size": "1348250",
+              "checksum": "SHA-256:a3862e6a38668c2688dc0822b16c3f824612cc606259b6813bc5778d36c92ba9",
+              "host": "aarch64-linux-gnu",
+              "archiveFileName": "avrdude_7.2-arduino.1_Linux_ARM64.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.2-arduino.1_Linux_ARM64.tar.gz"
+            },
+            {
+              "size": "928946",
+              "checksum": "SHA-256:256cbde856714a18c11b4c99f6b00eed65e4208c92425fa9cfd75a5bdfb6ab09",
+              "host": "x86_64-apple-darwin12",
+              "archiveFileName": "avrdude_7.2-arduino.1_macOS_64bit.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.2-arduino.1_macOS_64bit.tar.gz"
+            },
+            {
+              "size": "1256881",
+              "checksum": "SHA-256:25e1b568757d9a58b9663e4493ffc04b9e6d690535c9c1e6c1db7d1ecffb5eff",
+              "host": "x86_64-linux-gnu",
+              "archiveFileName": "avrdude_7.2-arduino.1_Linux_64bit.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.2-arduino.1_Linux_64bit.tar.gz"
+            },
+            {
+              "size": "1252284",
+              "checksum": "SHA-256:86a811f6ba2bebbb717a524fcff495f0ebb146abcd15d341a10d867b8e8c83fd",
+              "host": "i686-linux-gnu",
+              "archiveFileName": "avrdude_7.2-arduino.1_Linux_32bit.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.2-arduino.1_Linux_32bit.tar.gz"
+            },
+            {
+              "size": "1682746",
+              "checksum": "SHA-256:5536c9fcb41f4a36aa55b3711a0d74943a401261b15cc8aae2473c30ff292021",
+              "host": "i686-mingw32",
+              "archiveFileName": "avrdude_7.2-arduino.1_Windows_32bit.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.2-arduino.1_Windows_32bit.tar.gz"
+            }
+          ]
+        },
+        {
+          "name": "avrdude",
+          "version": "8.0-arduino.1",
+          "systems": [
+            {
+              "size": "1441658",
+              "checksum": "SHA-256:66ae53dac08b2db2f065d7b6b2f60ff62d2a85907613c7b2988fdd1922950b5d",
+              "host": "arm-linux-gnueabihf",
+              "archiveFileName": "avrdude_8.0-arduino.1_Linux_ARMv6.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_8.0-arduino.1_Linux_ARMv6.tar.gz"
+            },
+            {
+              "size": "1565761",
+              "checksum": "SHA-256:031f212bdcb77e2ea13895f07ab4a0c254963f8f1bbd3b8797d3363a6a2e95e3",
+              "host": "aarch64-linux-gnu",
+              "archiveFileName": "avrdude_8.0-arduino.1_Linux_ARM64.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_8.0-arduino.1_Linux_ARM64.tar.gz"
+            },
+            {
+              "size": "1173108",
+              "checksum": "SHA-256:8a36cf441a3ce21622eb30b40f0b71d27864b30ea851cb795ae654ee10e2c132",
+              "host": "x86_64-apple-darwin12",
+              "archiveFileName": "avrdude_8.0-arduino.1_macOS_64bit.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_8.0-arduino.1_macOS_64bit.tar.gz"
+            },
+            {
+              "size": "1476932",
+              "checksum": "SHA-256:1d2edadb07e070fcd016e8c802e961e30bfa606c2db63625c930526e7044aaa6",
+              "host": "x86_64-linux-gnu",
+              "archiveFileName": "avrdude_8.0-arduino.1_Linux_64bit.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_8.0-arduino.1_Linux_64bit.tar.gz"
+            },
+            {
+              "size": "1452068",
+              "checksum": "SHA-256:622358355a17cb400060cffbe1f8fc2fd9cea2ee883ab1b7766fd8219e0fc0f9",
+              "host": "i686-linux-gnu",
+              "archiveFileName": "avrdude_8.0-arduino.1_Linux_32bit.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_8.0-arduino.1_Linux_32bit.tar.gz"
+            },
+            {
+              "size": "1890359",
+              "checksum": "SHA-256:833aa1a66a8e70cd597fcfdbd7e559a91a00eca1d7aa3be2ce9bcadf7ccb987c",
+              "host": "i686-mingw32",
+              "archiveFileName": "avrdude_8.0-arduino.1_Windows_32bit.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_8.0-arduino.1_Windows_32bit.tar.gz"
+            }
+          ]
+        },
+        {
+          "name": "avrocd-tools",
+          "version": "1.0.0",
+          "systems": [
+            {
+              "size": "1071",
+              "checksum": "SHA-256:8730e423cb94cca303a2aad7734350b2d233acdf5a7e682c3aff3233acc0acab",
+              "host": "arm-linux-gnueabihf",
+              "archiveFileName": "avrocd-tools-1.0.0-arm-linux-gnueabihf.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.0.0/avrocd-tools-1.0.0-arm-linux-gnueabihf.tar.gz"
+            },
+            {
+              "size": "36086895",
+              "checksum": "SHA-256:19c28efc4365bfc81d3aabd7c3648bf1d1102cf34359121a641d421469bc4b61",
+              "host": "aarch64-linux-gnu",
+              "archiveFileName": "avrocd-tools-1.0.0-aarch64-linux-gnu.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.0.0/avrocd-tools-1.0.0-aarch64-linux-gnu.tar.gz"
+            },
+            {
+              "size": "27044038",
+              "checksum": "SHA-256:600fd15039fd4bc8cbc5a73d8477ba2377e4ee1daeb8e1f061098f30cb0b0093",
+              "host": "x86_64-apple-darwin",
+              "archiveFileName": "avrocd-tools-1.0.0-x86_64-apple-darwin.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.0.0/avrocd-tools-1.0.0-x86_64-apple-darwin.tar.gz"
+            },
+            {
+              "size": "36424811",
+              "checksum": "SHA-256:9bd4f191993bbb600286ec01eec4a4bf3b03da54a64cacafa37355af2e61c3ca",
+              "host": "x86_64-linux-gnu",
+              "archiveFileName": "avrocd-tools-1.0.0-x86_64-linux-gnu.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.0.0/avrocd-tools-1.0.0-x86_64-linux-gnu.tar.gz"
+            },
+            {
+              "size": "1076",
+              "checksum": "SHA-256:b35e565e78dd20251f801c810913833d418753692c4d021185ec7140a5c8114d",
+              "host": "i686-linux-gnu",
+              "archiveFileName": "avrocd-tools-1.0.0-i686-linux-gnu.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.0.0/avrocd-tools-1.0.0-i686-linux-gnu.tar.gz"
+            },
+            {
+              "size": "17555228",
+              "checksum": "SHA-256:2da59ca104e34851b287a142b087878f64dfc246f626675a0ddfbffe921d6418",
+              "host": "x86_64-mingw32",
+              "archiveFileName": "avrocd-tools-1.0.0-x86_64-mingw32.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.0.0/avrocd-tools-1.0.0-x86_64-mingw32.tar.gz"
+            },
+            {
+              "size": "25374033",
+              "checksum": "SHA-256:765ffedfffe30cfdff7f7bed69a4cb2dca239aa3b98e2f4fee1be04039b9a51a",
+              "host": "arm64-apple-darwin",
+              "archiveFileName": "avrocd-tools-1.0.0-arm64-apple-darwin.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.0.0/avrocd-tools-1.0.0-arm64-apple-darwin.tar.gz"
+            },
+            {
+              "size": "15557829",
+              "checksum": "SHA-256:31d5317164fe92d96ebb08c76480d817888e7e138e092b05b17d539b0aa2a0c3",
+              "host": "i686-mingw32",
+              "archiveFileName": "avrocd-tools-1.0.0-i686-mingw32.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.0.0/avrocd-tools-1.0.0-i686-mingw32.tar.gz"
+            }
+          ]
+        },
+        {
+          "name": "avrocd-tools",
+          "version": "1.1.0",
+          "systems": [
+            {
+              "size": "1073",
+              "checksum": "SHA-256:1af446ad27840b299c03dbc6d144d38e5d5c52a0d4a2bca68d18bb3ba2165e2a",
+              "host": "arm-linux-gnueabihf",
+              "archiveFileName": "avrocd-tools-1.1.0-arm-linux-gnueabihf.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.1.0/avrocd-tools-1.1.0-arm-linux-gnueabihf.tar.gz"
+            },
+            {
+              "size": "36091894",
+              "checksum": "SHA-256:f4ebbe038ecbe95d83ab10e2400b1dc739a51cb0f452621215340427bc475ca8",
+              "host": "aarch64-linux-gnu",
+              "archiveFileName": "avrocd-tools-1.1.0-aarch64-linux-gnu.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.1.0/avrocd-tools-1.1.0-aarch64-linux-gnu.tar.gz"
+            },
+            {
+              "size": "27063781",
+              "checksum": "SHA-256:2969933efe97fdb8738f74b8b5a4910f60b94ffcd3a844bbb47dbcf538ad8067",
+              "host": "x86_64-apple-darwin",
+              "archiveFileName": "avrocd-tools-1.1.0-x86_64-apple-darwin.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.1.0/avrocd-tools-1.1.0-x86_64-apple-darwin.tar.gz"
+            },
+            {
+              "size": "36443991",
+              "checksum": "SHA-256:e8fd220393d099955c2356a201e0d4d7138530aafcde0213c4d969ecf808a16a",
+              "host": "x86_64-linux-gnu",
+              "archiveFileName": "avrocd-tools-1.1.0-x86_64-linux-gnu.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.1.0/avrocd-tools-1.1.0-x86_64-linux-gnu.tar.gz"
+            },
+            {
+              "size": "1077",
+              "checksum": "SHA-256:d8589fff929f9100fd7eb5978707736d74ba06bc92d8b3075f849c95809ca7d3",
+              "host": "i686-linux-gnu",
+              "archiveFileName": "avrocd-tools-1.1.0-i686-linux-gnu.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.1.0/avrocd-tools-1.1.0-i686-linux-gnu.tar.gz"
+            },
+            {
+              "size": "17578213",
+              "checksum": "SHA-256:05546e50abfc59fa72e4a50f62c2b0a6c3a64eb2bfae0895588ea4d8ebca6a97",
+              "host": "x86_64-mingw32",
+              "archiveFileName": "avrocd-tools-1.1.0-x86_64-mingw32.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.1.0/avrocd-tools-1.1.0-x86_64-mingw32.tar.gz"
+            },
+            {
+              "size": "25393295",
+              "checksum": "SHA-256:0ea121d6066c27250333068afe961f6d9ad5747b6255aa31daa18a943ec8da55",
+              "host": "arm64-apple-darwin",
+              "archiveFileName": "avrocd-tools-1.1.0-arm64-apple-darwin.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.1.0/avrocd-tools-1.1.0-arm64-apple-darwin.tar.gz"
+            },
+            {
+              "size": "15579325",
+              "checksum": "SHA-256:0b88abf453ca7e5f94f567b0db93784644e78e91ac0558323abcfa7f8af3ecc4",
+              "host": "i686-mingw32",
+              "archiveFileName": "avrocd-tools-1.1.0-i686-mingw32.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.1.0/avrocd-tools-1.1.0-i686-mingw32.tar.gz"
+            }
+          ]
+        },
+        {
+          "name": "avrocd-tools",
+          "version": "1.1.1",
+          "systems": [
+            {
+              "size": "1071",
+              "checksum": "SHA-256:7e1f9247f70945747f96e5aa6f7f6c9d5d9ef9037ef39e08d3737703f7423eca",
+              "host": "arm-linux-gnueabihf",
+              "archiveFileName": "avrocd-tools-1.1.1-arm-linux-gnueabihf.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.1.1/avrocd-tools-1.1.1-arm-linux-gnueabihf.tar.gz"
+            },
+            {
+              "size": "36090237",
+              "checksum": "SHA-256:747e56d210683e01978a2a8e6d60d436f6293b74b356718155c438c709d7873e",
+              "host": "aarch64-linux-gnu",
+              "archiveFileName": "avrocd-tools-1.1.1-aarch64-linux-gnu.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.1.1/avrocd-tools-1.1.1-aarch64-linux-gnu.tar.gz"
+            },
+            {
+              "size": "26894117",
+              "checksum": "SHA-256:7e564e77ef73d77a319c1ab9c565b72ece4021d2adae5c548a0d149730c74802",
+              "host": "x86_64-apple-darwin",
+              "archiveFileName": "avrocd-tools-1.1.1-x86_64-apple-darwin.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.1.1/avrocd-tools-1.1.1-x86_64-apple-darwin.tar.gz"
+            },
+            {
+              "size": "36439870",
+              "checksum": "SHA-256:319428fabd6dab0249a4fb6a94f887bf743a5df94beaa2605c4421499dbd9667",
+              "host": "x86_64-linux-gnu",
+              "archiveFileName": "avrocd-tools-1.1.1-x86_64-linux-gnu.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.1.1/avrocd-tools-1.1.1-x86_64-linux-gnu.tar.gz"
+            },
+            {
+              "size": "1077",
+              "checksum": "SHA-256:cfb3565e4b64157126163a61ac2166ff4df6cc83b788bd777bb157c389497345",
+              "host": "i686-linux-gnu",
+              "archiveFileName": "avrocd-tools-1.1.1-i686-linux-gnu.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.1.1/avrocd-tools-1.1.1-i686-linux-gnu.tar.gz"
+            },
+            {
+              "size": "17575407",
+              "checksum": "SHA-256:983605025b8c5d1982a19ff6359ed8a6a2a9e85ca212d423f16bed05e056c285",
+              "host": "x86_64-mingw32",
+              "archiveFileName": "avrocd-tools-1.1.1-x86_64-mingw32.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.1.1/avrocd-tools-1.1.1-x86_64-mingw32.tar.gz"
+            },
+            {
+              "size": "25368171",
+              "checksum": "SHA-256:7952606c8c4ed86b2121537900548078bde072f3b4ebf979a1e168860e9fb099",
+              "host": "arm64-apple-darwin",
+              "archiveFileName": "avrocd-tools-1.1.1-arm64-apple-darwin.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.1.1/avrocd-tools-1.1.1-arm64-apple-darwin.tar.gz"
+            },
+            {
+              "size": "15583839",
+              "checksum": "SHA-256:82bd8895cad415e94e1a01c5aecad638d85f23810fa41dc943f3a582bad417af",
+              "host": "i686-mingw32",
+              "archiveFileName": "avrocd-tools-1.1.1-i686-mingw32.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.1.1/avrocd-tools-1.1.1-i686-mingw32.tar.gz"
+            }
+          ]
+        },
+        {
+          "name": "avrocd-tools",
+          "version": "1.5.2",
+          "systems": [
+            {
+              "size": "1061",
+              "checksum": "SHA-256:aee0d9453c70b29a11c7cadf8b858d3cab04de27526ba03767ed76583ca4a617",
+              "host": "arm-linux-gnueabihf",
+              "archiveFileName": "avrocd-tools-1.5.2-arm-linux-gnueabihf.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.5.2/avrocd-tools-1.5.2-arm-linux-gnueabihf.tar.gz"
+            },
+            {
+              "size": "48770054",
+              "checksum": "SHA-256:f8f97378c8a31ebecaf2198538a48eee18ec8cf38d33c2b753c3a4889a3e9787",
+              "host": "aarch64-linux-gnu",
+              "archiveFileName": "avrocd-tools-1.5.2-aarch64-linux-gnu.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.5.2/avrocd-tools-1.5.2-aarch64-linux-gnu.tar.gz"
+            },
+            {
+              "size": "37734244",
+              "checksum": "SHA-256:13b0738f44ebbf96fddc19a7ad1db14d03ed7ff95435d2df6f181f35ec8729e6",
+              "host": "x86_64-apple-darwin",
+              "archiveFileName": "avrocd-tools-1.5.2-x86_64-apple-darwin.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.5.2/avrocd-tools-1.5.2-x86_64-apple-darwin.tar.gz"
+            },
+            {
+              "size": "49256804",
+              "checksum": "SHA-256:f5d9bde14678b1950eb9a7b1dcc2f5494d08b8010c23b383f381a767a340bcd0",
+              "host": "x86_64-linux-gnu",
+              "archiveFileName": "avrocd-tools-1.5.2-x86_64-linux-gnu.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.5.2/avrocd-tools-1.5.2-x86_64-linux-gnu.tar.gz"
+            },
+            {
+              "size": "1069",
+              "checksum": "SHA-256:351bc45a00675265e263e8d53db811a22d5f1fa89dbbcec0a51d9ce362f271bd",
+              "host": "i686-linux-gnu",
+              "archiveFileName": "avrocd-tools-1.5.2-i686-linux-gnu.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.5.2/avrocd-tools-1.5.2-i686-linux-gnu.tar.gz"
+            },
+            {
+              "size": "29611988",
+              "checksum": "SHA-256:40cb457839189fdc5855470d4db2680c8ef017cb0a573c7629621b5714731bee",
+              "host": "x86_64-mingw32",
+              "archiveFileName": "avrocd-tools-1.5.2-x86_64-mingw32.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.5.2/avrocd-tools-1.5.2-x86_64-mingw32.tar.gz"
+            },
+            {
+              "size": "36363894",
+              "checksum": "SHA-256:7b12c54be5db98cd82df97cd3d2bdf76a9037f136fd86cec0668ed9699f91da7",
+              "host": "arm64-apple-darwin",
+              "archiveFileName": "avrocd-tools-1.5.2-arm64-apple-darwin.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.5.2/avrocd-tools-1.5.2-arm64-apple-darwin.tar.gz"
+            },
+            {
+              "size": "27509433",
+              "checksum": "SHA-256:4a51c6c4d121d94e77a4e923169ef72d1be12ff08084975eefb04b59c1b42997",
+              "host": "i686-mingw32",
+              "archiveFileName": "avrocd-tools-1.5.2-i686-mingw32.tar.gz",
+              "url": "https://github.com/felias-fogg/PyAvrOCD/releases/download/v1.5.2/avrocd-tools-1.5.2-i686-mingw32.tar.gz"
+            }
+          ]
+        },
+        {
+          "name": "avr-gcc",
+          "version": "15.1.0-microchip4.0.0-03",
+          "systems": [
+            {
+              "size": "116667759",
+              "checksum": "SHA-256:cc8682bb15f26428597499bf6e120832624a25b1062034a49fe0c77e4731cd33",
+              "host": "x86_64-linux-gnu",
+              "archiveFileName": "avr8-gnu-toolchain-4.0.0.52-linux.any.x86_64.tar.gz",
+              "url": "https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/SoftwareTools/avr8-gnu-toolchain-4.0.0.52-linux.any.x86_64.tar.gz"
+            },
+            {
+              "size": "113604384",
+              "checksum": "SHA-256:ccc9712ca20edc713dcf101013f80ba245b418ebfb02fc98e9f44f7733fe086a",
+              "host": "x86_64-mingw32",
+              "archiveFileName": "avr8-gnu-toolchain-4.0.0.52-win32.any.x86_64.zip",
+              "url": "https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/SoftwareTools/avr8-gnu-toolchain-4.0.0.52-win32.any.x86_64.zip"
+            },
+            {
+              "size": "204050783",
+              "checksum": "SHA-256:e6db3e9712ff85778384c2622859d737d23455e79e3362e8616a8ae836c772c1",
+              "host": "x86_64-apple-darwin",
+              "archiveFileName": "avr8-gnu-toolchain-4.0.0.52-darwin.any.universal.tar.gz",
+              "url": "https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/SoftwareTools/avr8-gnu-toolchain-4.0.0.52-darwin.any.universal.tar.gz"
+            },
+            {
+              "size": "204050783",
+              "checksum": "SHA-256:e6db3e9712ff85778384c2622859d737d23455e79e3362e8616a8ae836c772c1",
+              "host": "arm64-apple-darwin",
+              "archiveFileName": "avr8-gnu-toolchain-4.0.0.52-darwin.any.universal.tar.gz",
+              "url": "https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/SoftwareTools/avr8-gnu-toolchain-4.0.0.52-darwin.any.universal.tar.gz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

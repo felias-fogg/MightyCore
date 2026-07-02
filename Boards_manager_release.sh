@@ -89,7 +89,7 @@ jq -r                                    \
 --arg file_name   $REPOSITORY-${DOWNLOADED_FILE#"v"}.tar.bz2  \
 '.packages[].platforms[.packages[].platforms | length] |= . +
 {
-  "name": $repository,
+  "name": "MightyCore (GCC15)",
   "architecture": "avr",
   "version": $version,
   "category": "Contributed",
@@ -107,6 +107,11 @@ jq -r                                    \
     {"name": "ATmega8535"}
   ],
   "toolsDependencies": [
+    {
+      "packager": "MightyCore",
+      "name": "avr-gcc",
+      "version": "15.1.0-microchip4.0.0-03"
+    },
     {
       "packager": "arduino",
       "name": "avr-gcc",
@@ -128,8 +133,9 @@ jq -r                                    \
       "version": $avrocdversion
     }   
   ]
-}' "package_${REALAUTHOR}_${REPOSITORY}_index.json.tmp" > "package_${REALAUTHOR}_${REPOSITORY}_index.json"
+}' "package_${REALAUTHOR}_${REPOSITORY}_index.json.tmp" > "package_${REALAUTHOR}_${REPOSITORY}_index.json" 
 
 # Remove files that's no longer needed
-rm -rf "$REPOSITORY-${DOWNLOADED_FILE#"v"}" "package_${REALAUTHOR}_${REPOSITORY}_index.json.tmp"
+rm -rf "$REPOSITORY-${DOWNLOADED_FILE#"v"}" "package_${REALAUTHOR}_${REPOSITORY}_index.json.tmp"  "package_GCC15_${REPOSITORY}_index.json"
+cp "package_${REALAUTHOR}_${REPOSITORY}_index.json" "package_GCC15_${REPOSITORY}_index.json" 
 
