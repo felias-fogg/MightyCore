@@ -1673,8 +1673,8 @@
           "category": "Contributed",
           "url": "https://felias-fogg.github.io/MightyCore/MightyCore-3.2.0-gcc15a.tar.bz2",
           "archiveFileName": "MightyCore-3.2.0-gcc15a.tar.bz2",
-          "checksum": "SHA-256:33fd6a39c070d8df19207da6f1f8232d2b063ed40f6f05c3978207f6c85f650a",
-          "size": "18413232",
+          "checksum": "SHA-256:defe448e32b4230644f57b662b4640155737bbbc685e7e9dc542fd3ce6dd5a6d",
+          "size": "18413041",
           "boards": [
             {
               "name": "ATmega1284/P"
